@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rottennnelon
-- 👀 busy in coding
+- 👀 busy *with* coding
 - 🌱 i’m currently learning python and other programming languages
 - 💞️ nice 2 meet u guys
 
